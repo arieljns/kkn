@@ -1,2 +1,3 @@
 # .gitignore
-node_modules/
+finsa-product/node_modules/
+
